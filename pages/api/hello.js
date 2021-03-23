@@ -3,5 +3,4 @@
 export default (req, res) => {
   res.status(200).json({ name: 'John Doe' })
 }
-import { Switch } from 'react-router-dom'
 
